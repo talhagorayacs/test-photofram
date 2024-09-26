@@ -30,7 +30,7 @@ function SignUp() {
         className="absolute inset-0"
       />
       <div className="flex items-center justify-center h-full relative z-10">
-        <div className="w-full max-w-lg rounded-xl bg-gray-900 bg-opacity-80 px-16 py-12 shadow-lg backdrop-blur-md max-sm:px-8">
+        <div className="w-full max-w-lg rounded-xl bg-gray-900 bg-opacity-50 px-16 py-12 shadow-lg backdrop-blur-md max-sm:px-8">
           <div className="text-white">
             <div className="mb-8 flex flex-col items-center">
               <img

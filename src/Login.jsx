@@ -18,8 +18,8 @@ function Login() {
         scene="https://prod.spline.design/RKa0tbb0EZDNz7AM/scene.splinecode"
         className="absolute inset-0"
       />
-      <div className="flex items-center justify-center h-full relative z-10">
-        <div className="w-full max-w-lg rounded-xl bg-gray-800 bg-opacity-75 px-16 py-12 shadow-lg backdrop-blur-md max-sm:px-8">
+      <div className="flex items-center justify-center h-full relative z-10 sm:mx-4">
+        <div className="w-full max-w-lg rounded-xl bg-gray-800 bg-opacity-50 px-16 py-12 shadow-lg backdrop-blur-md max-sm:mx-8">
           <div className="text-white">
             <div className="mb-8 flex flex-col items-center">
               <img
